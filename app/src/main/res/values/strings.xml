@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Criptografia</string>
+    <string name="Criptografia" />
+    <string name="rotulo">Palavra Chave</string>
+    <string name="rotulo2">Encriptar</string>
+    <string name="rotulo3">Decriptar</string>
+</resources>
